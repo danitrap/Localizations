@@ -1,0 +1,15 @@
+LABEL_OPTIONS = "Label options";
+
+CAPITALIZED_TEXT = "If enabled, it will capitalize the first letter of the notification. (i.e : '1 notification' becomes '1 Notification')";
+
+CAPITALIZE = "Capitalize first letter";
+
+CB_WARNING = "If you enable \"ColorBadges for labels\", it will use ColorBadges to determine the color to set to the label.\nYou must have ColorBadges installed.";
+
+ENABLE_LABELS = "Enable labels color changing";
+
+USE_CB = "Use ColorBadges for labels";
+
+WARNING_COLOR = "This will set a general color for labels which have notification";
+
+SELECT_COLOR = "Select color";

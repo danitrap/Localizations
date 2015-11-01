@@ -1,0 +1,23 @@
+WARNING_ALL_LABELS = "Damit die dritte Option korrekt funktioniert, bitte dieselbe Funktion bei „HideMeX“ und/oder bei „Springtomize“ deaktivieren";
+
+ENABLED = "Aktiviert";
+
+HIDE_BADGES = "Benachrichtigungen verbergen";
+
+HIDE_ALL_LABELS = "Alle Benachrichtigungen verbergen";
+
+OPTIONS = "Optionen";
+
+LABEL_OPTIONS = "Bezeichnungen";
+
+HIGHLIGHT_OPTIONS = "Hervorhebungen";
+
+LANGUAGE_OPTIONS = "Language options";
+
+PERAPP_OPTIONS = "App-spezifische Optionen";
+
+APPLY_CHANGES = "Um Änderungen sichtbar zu machen, muss das SpringBoard neugestartet werden";
+
+RESPRING = "SpringBoard neustarten";
+
+CREDITS = "Herausgeber";

@@ -1,0 +1,7 @@
+SINGULAR_FORM = "Write it in its singular form.";
+
+LABEL = "Bezeichnung";
+
+PLURAL_FORM = "Plural form";
+
+IF_PLURAL = "Change the value of the plural form if it doesn't match your need.";

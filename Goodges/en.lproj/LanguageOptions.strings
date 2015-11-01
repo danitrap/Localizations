@@ -1,0 +1,9 @@
+LANGUAGE_OPTIONS = "Language options";
+
+PLURAL_FOOTER = "If enabled, Goodges will automatically add the \"plural suffix\" to the word when multiple notifications are pending.";
+
+ENABLE_AUTO_PLURAL = "Enable automatic plural";
+
+SORRY = "Since every language has its own plural form, Goodges can't handle that. Because of that, if your language doesn't have a \"rule\" for plural words, you will have to set it yourself in the per-app settings.\n:("; 
+
+GLOBAL_PLURAL = "Plural suffix";

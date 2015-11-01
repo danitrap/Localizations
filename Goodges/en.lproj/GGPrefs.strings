@@ -1,0 +1,23 @@
+WARNING_ALL_LABELS = "To make the third option work properly, you must disable this same option in HideMe8 and/or Springtomize";
+
+ENABLED = "Enabled";
+
+HIDE_BADGES = "Hide badges";
+
+HIDE_ALL_LABELS = "Hide all labels";
+
+OPTIONS = "Options";
+
+LABEL_OPTIONS = "Label options";
+
+HIGHLIGHT_OPTIONS = "Highlighting options";
+
+LANGUAGE_OPTIONS = "Language options";
+
+PERAPP_OPTIONS = "Per-app options";
+
+APPLY_CHANGES = "You must respring to apply changes or you may experience SpringBoard crashes.\n(you've been warneeed)";
+
+RESPRING = "Respring to apply changes";
+
+CREDITS = "Credits";

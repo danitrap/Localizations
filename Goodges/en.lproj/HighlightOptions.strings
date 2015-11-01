@@ -1,0 +1,13 @@
+HIGHLIGHT_OPTIONS = "Highlighting options";
+
+HIGHLIGHT_FOOTER = "If enabled, it will highlight labels to make them more noticeable.";
+
+ENABLED = "Enable highlighting";
+
+CB_FOOTER = "If you enable \"Highlight with ColorBadges\", it will use ColorBadges to determine the color to set to the highlight of label. You must have ColorBadges installed.\n\n\"Inverse text color\" will set the color of the label with the negative color of the highlight color for more visibility.";
+
+CB_HIGHLIGHT = "Highlight with ColorBadges";
+
+INVERSE_COLOR = "Inverse text color";
+
+SELECT_COLOR = "Select a color for highlighting";

@@ -1,0 +1,13 @@
+HIGHLIGHT_OPTIONS = "Hervorhebungen";
+
+HIGHLIGHT_FOOTER = "Macht die Benachrichtigungen sichtbarer.";
+
+ENABLED = "Hervorheben";
+
+CB_FOOTER = "Wenn \"ColorBadges verwenden\" aktiviert ist, wird die jeweilige Farbe von ColorBadges zum Hervorheben verwendet. Dazu muss ColorBadges installiert sein.";
+
+CB_HIGHLIGHT = "ColorBadges verwenden";
+
+INVERSE_COLOR = "Inverse text color";
+
+SELECT_COLOR = "Farbe auswählen";

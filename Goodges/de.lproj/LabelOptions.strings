@@ -1,0 +1,15 @@
+LABEL_OPTIONS = "Bezeichnungen";
+
+CAPITALIZED_TEXT = "Wenn diese Option aktiviert ist, wird der erste Buchstabe der Benachrichtigung groß geschrieben (z.B. „1 benachrichtigung“ wird zu „1 Benachrichtigung)";
+
+CAPITALIZE = "Erster Buchstabe groß";
+
+CB_WARNING = "Wenn \"ColorBadges verwenden\" aktiviert ist, wird die jeweilige Farbe von ColorBadges für die Benachrichtigungen verwendet.\nDazu muss ColorBadges installiert sein.";
+
+ENABLE_LABELS = "Eigene Farbe für Benachrichtigungen";
+
+USE_CB = "ColorBadges verwenden";
+
+WARNING_COLOR = "Dies wird eine Hauptfarbe für alle Benachrichtigungen festlegen";
+
+SELECT_COLOR = "Dies wird eine Hauptfarbe für alle Benachrichtigungen festlegen";
