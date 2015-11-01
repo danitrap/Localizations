@@ -1,0 +1,9 @@
+LANGUAGE_OPTIONS = "Options de langage";
+
+PLURAL_FOOTER = "Si activé, Goodges ajoutera automatique le suffixe pluriel.";
+
+ENABLE_AUTO_PLURAL = "Activer le pluriel automatique";
+
+SORRY = "Puisque chaque langue a son propre forme pluriel, Goodges ne peut pas gérer tous les cas. À cause de cela, si votre langue n'a pas de \"règle\" pour les mots au pluriel, vous devrez les paramétrer manuellement.\n:(";
+
+GLOBAL_PLURAL = "Suffixe pluriel";

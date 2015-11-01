@@ -1,0 +1,7 @@
+SINGULAR_FORM = "Écrivez-le dans sa forme singulière";
+
+LABEL = "Label";
+
+PLURAL_FORM = "Forme au pluriel";
+
+IF_PLURAL = "Changez la valeur du pluriel si elle ne correspond pas à ce que vous voulez";

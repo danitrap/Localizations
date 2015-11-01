@@ -1,0 +1,23 @@
+WARNING_ALL_LABELS = "Pour que la troisième option fonctionne correctement, vous devez désactiver cette même option dans HideMeX et/ou Springtomize";
+
+ENABLED = "Activé";
+
+HIDE_BADGES = "Cacher les badges";
+
+HIDE_ALL_LABELS = "Cacher tous les badges";
+
+OPTIONS = "Options";
+
+LABEL_OPTIONS = "Options de label";
+
+HIGHLIGHT_OPTIONS = "Options de surlignage";
+
+LANGUAGE_OPTIONS = "Options de langage";
+
+PERAPP_OPTIONS = "Options par application";
+
+APPLY_CHANGES = "Vous devez relancer le springboard pour que les changements soient appliqués correctement ou vous pourriez subir des crashs.";
+
+RESPRING = "Relancer le springboard";
+
+CREDITS = "Crédits";

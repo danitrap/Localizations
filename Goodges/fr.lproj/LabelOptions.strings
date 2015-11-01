@@ -1,0 +1,15 @@
+LABEL_OPTIONS = "Options de label";
+
+CAPITALIZED_TEXT = "Si activé, Goodges mettra automatiquement une majuscule au début de chaque mot";
+
+CAPITALIZE = "Première lettre majuscule";
+
+CB_WARNING = "Si activé, Goodges va utiliser ColorBadges pour donner une couleur à votre label. Vous devez avoir ColorBadges installé.";
+
+ENABLE_LABELS = "Activer la couleur pour les labels";
+
+USE_CB = "Utiliser ColorBadges pour la couleur";
+
+WARNING_COLOR = "Cela va imposer une couleur générale à tous les labels";
+
+SELECT_COLOR = "Sélectionner une couleur";

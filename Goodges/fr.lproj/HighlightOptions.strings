@@ -1,0 +1,13 @@
+HIGHLIGHT_OPTIONS = "Options de surlignage";
+
+HIGHLIGHT_FOOTER = "Si activé, Goodges va surligner les labels des applications ayant une notification.";
+
+ENABLED = "Activer le surlignage";
+
+CB_FOOTER = "Si vous activez \"Surligner avec ColorBadges\", Goodges s'aidera de ColorBadges pour la couleur de surlignage. Vous devez avoir ColorBadges d'activé.\n\"Couleur négative\" coloriera le label avec la couleur négative du surlignage.";
+
+CB_HIGHLIGHT = "Surligner avec ColorBadges";
+
+INVERSE_COLOR = "Couleur négative";
+
+SELECT_COLOR = "Choisir couleur par défaut";
