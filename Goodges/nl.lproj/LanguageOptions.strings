@@ -1,0 +1,9 @@
+LANGUAGE_OPTIONS = "Taal opties";
+
+PLURAL_FOOTER = "Wanneer ingeschakeld zal Goodges automatisch een \"Meervoud van het achtervoegsel\" aan het woord toevoegen wanneer er verschillende meldingen gaande zijn.";
+
+ENABLE_AUTO_PLURAL = "Schakel automatisch meervoud in";
+
+SORRY = "Aangezien elke taal zijn eigen meervoud heeft, kan Goodges hier niet mee omgaan. Daarom, als jouw taal geen specifieke \"regel\" heeft voor woorden in het meervoud, zal je die zelf moeten instellen in de per-app instellingen.\n:("; 
+
+GLOBAL_PLURAL = "Meervoud van het achtervoegsel";

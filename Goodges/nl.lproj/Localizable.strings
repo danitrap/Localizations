@@ -1,0 +1,34 @@
+NOTIFICATION = "melding";
+
+NOTIFICATIONS = "meldingen";
+
+MESSAGE = "bericht";
+
+MESSAGES = "berichten";
+
+MAIL = "mail";
+
+MAILS = "mails";
+
+UPDATE = "update";
+
+UPDATES = "updates";
+
+CALL = "gesprek";
+
+CALLS = "gesprekken";
+
+REMINDER = "herinnering";
+
+REMINDERS = "herinneringen";
+
+SNAP = "snap";
+
+SNAPS = "snaps";
+
+/* Wanneer jouw taal "automatisch meervoud" ondersteund of niet */
+AUTO_PLURAL = "JA";
+
+/* De letters toe te voegen aan een woord, wanneer je naar de meervoudsvorm gaat. Vul niets in als je
+ * AUTO_PLURAL op NEE zet */
+PLURAL_CHAR = "en";

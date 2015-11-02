@@ -1,0 +1,11 @@
+CREDITS = "Credits";
+
+FOLLOW_TWITTER = "Volg me op twitter";
+
+WEBSITE = "Ontdek mijn website";
+
+EMAIL = "Stuur me een email";
+
+DONATE = "Doneer";
+
+CHANGELOG = "Bekijk alle wijzigingen";

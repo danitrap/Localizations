@@ -1,0 +1,13 @@
+HIGHLIGHT_OPTIONS = "Markeer opties";
+
+HIGHLIGHT_FOOTER = "Wanneer ingeschakeld zullen de labels gemarkeerd worden zodat ze meer opvallen.";
+
+ENABLED = "Schakel markering in";
+
+CB_FOOTER = "Wanneer je \"Markeer met ColorBadges\" inschakelt, zal ColorBadges gebruikt worden om de kleur te bepalen voor de markering van het label. Je moet ColorBadges geïnstalleerd hebben.\n\n\"Omgekeerde tekst kleur\"zal de kleur van het label met de negatieve kleur van de markering instellen voor een betere zichtbaarheid.";
+
+CB_HIGHLIGHT = "Markeer met ColorBadges";
+
+INVERSE_COLOR = "Omgekeerde tekst kleur";
+
+SELECT_COLOR = "Selecteer een kleur om te markeren";

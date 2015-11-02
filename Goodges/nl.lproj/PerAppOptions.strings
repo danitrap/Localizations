@@ -1,0 +1,7 @@
+SINGULAR_FORM = "Schrijf het in zijn enkelvoudige vorm.";
+
+LABEL = "Label";
+
+PLURAL_FORM = "Meervoud vorm";
+
+IF_PLURAL = "Wijzig de waarde van de meervoudsvorm als het niet voldoet aan je behoefte.";

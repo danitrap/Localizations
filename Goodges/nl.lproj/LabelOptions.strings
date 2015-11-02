@@ -1,0 +1,17 @@
+LABEL_OPTIONS = "Label opties";
+
+CAPITALIZED_TEXT = "Wanneer ingeschakeld zal het van de eerste letter van de melding een hoofdletter maken. (b.v : '1 melding' wordt '1 Melding')";
+
+CAPITALIZE = "Maak van de eerste letter een hoofdletter";
+
+CB_WARNING = "Wanneer je \"ColorBadges voor labels\" inschakelt, zal het ColorBadges gebruiken om de kleur van het label te bepalen.\nJe moet ColorBadges hebben geïnstalleerd.";
+
+ENABLE_LABELS = "Schakel het wijzigen van kleuren voor labels in";
+
+USE_CB = "Gebruik ColorBadges voor labels";
+
+WARNING_COLOR = "Dit zal een algemene kleur instellen voor labels met een melding";
+
+SELECT_COLOR = "Selecteer kleur";
+
+BOLD_TEXT = "Bold text";

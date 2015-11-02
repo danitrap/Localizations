@@ -1,0 +1,23 @@
+WARNING_ALL_LABELS = "Om de optie naar behoren te laten functioneren, moet je dezelfde optie uitschakelen in HideMe8 en/of Springtomize";
+
+ENABLED = "Ingeschakeld";
+
+HIDE_BADGES = "Verberg badges";
+
+HIDE_ALL_LABELS = "Verberg alle labels";
+
+OPTIONS = "Opties";
+
+LABEL_OPTIONS = "Label opties";
+
+HIGHLIGHT_OPTIONS = "Markeer opties";
+
+LANGUAGE_OPTIONS = "Taal opties";
+
+PERAPP_OPTIONS = "Per-app opties";
+
+APPLY_CHANGES = "Je moet respringen om wijzigingen toe te passen, anders zou je crashes van het springboard kunnen ervaren.\n(je bent gewaarschuwd)";
+
+RESPRING = "Respring om wijzigingen toe te passen";
+
+CREDITS = "Credits";
