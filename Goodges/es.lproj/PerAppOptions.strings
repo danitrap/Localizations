@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IF_PLURAL</key>
+	<string>Cambie el valor de la forma plural si no coincide con su necesidad.</string>
+	<key>LABEL</key>
+	<string>Etiqueta</string>
+	<key>PLURAL_FORM</key>
+	<string>Forma plural</string>
+	<key>SINGULAR_FORM</key>
+	<string>Escríbelo en su forma singular.</string>
+</dict>
+</plist>

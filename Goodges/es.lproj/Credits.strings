@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CHANGELOG</key>
+	<string>Ver lista de cambios completa</string>
+	<key>CREDITS</key>
+	<string>Créditos</string>
+	<key>DONATE</key>
+	<string>Donar</string>
+	<key>EMAIL</key>
+	<string>Envíame un correo</string>
+	<key>FOLLOW_TWITTER</key>
+	<string>Sígueme en Twitter</string>
+	<key>WEBSITE</key>
+	<string>Revisa mi página de internet</string>
+</dict>
+</plist>

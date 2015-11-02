@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CB_FOOTER</key>
+	<string>Si activas "Resaltar con ColorBadges", se usará ColorBadges para determinar el color del resalte. Debes de tener ColorBadges instalado.
+
+"Invertir color de texto" establecerá el color de la etiqueta a el color negativo del color de resalte para una mayor visibilidad.</string>
+	<key>CB_HIGHLIGHT</key>
+	<string>Resaltar con ColorBadges</string>
+	<key>ENABLED</key>
+	<string>Activar resalte</string>
+	<key>HIGHLIGHT_FOOTER</key>
+	<string>Si es activado, se resaltarán las etiquetas para hacerlas mas notables.</string>
+	<key>HIGHLIGHT_OPTIONS</key>
+	<string>Opciones de resalte</string>
+	<key>INVERSE_COLOR</key>
+	<string>Invertir color de texto</string>
+	<key>SELECT_COLOR</key>
+	<string>Seleccionar un color para el resalte</string>
+</dict>
+</plist>

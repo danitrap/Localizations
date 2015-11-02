@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPITALIZE</key>
+	<string>Capitalizar primera letra</string>
+	<key>CAPITALIZED_TEXT</key>
+	<string>Si es activado, capitalizará la primera letra de la notificación (ej. : '1 notificación' cambiaría a '1 Notificación')</string>
+	<key>CB_WARNING</key>
+	<string>Si activas "Usar ColorBadges para etiquetas", se usará ColorBadges para determinar el color de la etiqueta.
+Debes de tener ColorBadges instalado.</string>
+	<key>ENABLE_LABELS</key>
+	<string>Activar cambio de color de etiquetas</string>
+	<key>LABEL_OPTIONS</key>
+	<string>Opciones de etiquetas</string>
+	<key>SELECT_COLOR</key>
+	<string>Seleccionar color</string>
+	<key>USE_CB</key>
+	<string>Usar ColorBadges para etiquetas</string>
+	<key>WARNING_COLOR</key>
+	<string>Esto establecerá un color general para etiquetas que tenga notifaciones.</string>
+</dict>
+</plist>

@@ -31,4 +31,4 @@ AUTO_PLURAL = "NO";
 
 /* The letter to add to a word so it goes to its plural form. Leave it blank if
  * you set AUTO_PLURAL to NO */
-PLURAL_CHAR = "";
+PLURAL_CHAR = "s";

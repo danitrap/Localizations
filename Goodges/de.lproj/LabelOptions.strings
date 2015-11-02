@@ -1,6 +1,6 @@
 LABEL_OPTIONS = "Bezeichnungen";
 
-CAPITALIZED_TEXT = "Wenn diese Option aktiviert ist, wird der erste Buchstabe der Benachrichtigung groß geschrieben (z.B. „1 benachrichtigung“ wird zu „1 Benachrichtigung)";
+CAPITALIZED_TEXT = "Wenn diese Option aktiviert ist, wird der erste Buchstabe der Benachrichtigung groß geschrieben (z.B. \"1 benachrichtigung\" wird zu \"1 Benachrichtigung\")";
 
 CAPITALIZE = "Erster Buchstabe groß";
 

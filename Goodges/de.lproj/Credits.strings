@@ -1,0 +1,11 @@
+CREDITS = "Credits";
+
+FOLLOW_TWITTER = "Follow me on twitter";
+
+WEBSITE = "Check out my website";
+
+EMAIL = "Send me an email";
+
+DONATE = "Donate";
+
+CHANGELOG = "View full changelog";

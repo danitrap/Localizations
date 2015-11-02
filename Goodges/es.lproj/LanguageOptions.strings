@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENABLE_AUTO_PLURAL</key>
+	<string>Activar plural automático</string>
+	<key>GLOBAL_PLURAL</key>
+	<string>Sufijo plural</string>
+	<key>LANGUAGE_OPTIONS</key>
+	<string>Opciones de idioma</string>
+	<key>PLURAL_FOOTER</key>
+	<string>Si es activado, Goodges automáticamente añadirá el "sufijo plural" a la palabra cuando hayan múltiples notificaciones pendientes.</string>
+	<key>SORRY</key>
+	<string>Ya que cada idioma tiene su propia forma plural, Goodges no puede encargarse de eso. Debido a eso, si tu idioma no tiene una "regla" para palabras plurales, tendrás que configurarlo tu mismo en las opciones por aplicación :(</string>
+</dict>
+</plist>

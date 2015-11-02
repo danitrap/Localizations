@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPLY_CHANGES</key>
+	<string>Debes de reiniciar SpringBoard para aplicar cambios o puede que te encuentres con errores. (has sido advertido)</string>
+	<key>CREDITS</key>
+	<string>Créditos</string>
+	<key>ENABLED</key>
+	<string>Activado</string>
+	<key>HIDE_ALL_LABELS</key>
+	<string>Ocultar todas las insignias</string>
+	<key>HIDE_BADGES</key>
+	<string>Ocultar insignias</string>
+	<key>HIGHLIGHT_OPTIONS</key>
+	<string>Opciones de resalte</string>
+	<key>LABEL_OPTIONS</key>
+	<string>Opciones de etiquetas</string>
+	<key>LANGUAGE_OPTIONS</key>
+	<string>Opciones de idioma</string>
+	<key>OPTIONS</key>
+	<string>Opciones</string>
+	<key>PERAPP_OPTIONS</key>
+	<string>Opciones por aplicación</string>
+	<key>RESPRING</key>
+	<string>Reiniciar SpringBoard para aplicar cambios</string>
+	<key>WARNING_ALL_LABELS</key>
+	<string>Para que funcione correctamente la tercera opción, debes de desactivar esa misma opción en HideMe8 y/o Springtomize</string>
+</dict>
+</plist>
