@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPITALIZE</key>
+	<string>جعل الحرف الاول حرف كبير</string>
+	<key>CAPITALIZED_TEXT</key>
+	<string>لا تقم بتشغيلهِ إلا اذا كنت تستعمل لغة غير اللغة العربية لانك اذا قمت بتشغيلهِ فسيقوم بتحويل الحرف الاول من الاشعار من الحرف الصغير الى الحرف الكبير وهذا خاص باللغة الانكليزية مثل تحويل اول حرف من كلمة notification الى Notification.</string>
+	<key>CB_WARNING</key>
+	<string>اذا قمت بتشغيل " إستعمال ColorBadges لتلوين الكتابة" فسيقوم ColorBadges بتلوين الكتابة طبقا للون الايكونة. لكن يجب أن يكون ColorBadges مثبتا.</string>
+	<key>ENABLE_LABELS</key>
+	<string>تغيير لون الكتابة</string>
+	<key>LABEL_OPTIONS</key>
+	<string>خيارات الكتابة</string>
+	<key>SELECT_COLOR</key>
+	<string>إختر اللون</string>
+	<key>USE_CB</key>
+	<string>إستعمال ColorBadges لتلوين الكتابة</string>
+	<key>WARNING_COLOR</key>
+	<string>هذا الخيار سيختار لون موحد للكتابة التي في الإشعار.</string>
+	<key>BOLD_TEXT</key>
+	<string>جعل الكتابة غامقة</string>
+</dict>
+</plist>

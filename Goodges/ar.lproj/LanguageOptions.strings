@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENABLE_AUTO_PLURAL</key>
+	<string>تشغيل صيغة الجمع التلقائية</string>
+	<key>GLOBAL_PLURAL</key>
+	<string>لاحقة الجمع</string>
+	<key>LANGUAGE_OPTIONS</key>
+	<string>خيارات اللغة</string>
+	<key>PLURAL_FOOTER</key>
+	<string>في حالة التشغيل سيقوم Goodges تلقائياً بإضافة "لاحقة الجمع" الى نهاية الكلمة عندما تكون الكلمة في صيغة جمع. مثل في اللغة الانكليزية سيضيف حرف "s" الى نهاية الكلمة لتصبح في صيغة الجمع.</string>
+	<key>SORRY</key>
+	<string>بما انه لكل لغة لها صيغة جمع خاصة بها, لذلك في هذه الحالة لا يمكن لـ Goodges ان يعالج هذه المشكلة, إذا كانت لغتك لا تحتوي على قاعدة جمع واحدة (مثل اللغة الانكليزية كإضافة حرف "s" الى نهاية الكلمة) فيمكنك تخصيص صيغة الجمع بنفسك في "خيارات لكل تطبيق على حدة".</string>
+</dict>
+</plist>

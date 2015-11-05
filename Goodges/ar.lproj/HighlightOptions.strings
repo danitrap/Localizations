@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CB_FOOTER</key>
+	<string>إذا تم تشغيل " تلوين تحديد نص الإشعار مع ColorBadges" فسيكون التلوين حسب لون الأيكونة ولكن يجب أن يكون التويك ColorBadges مثبتاً.
+"جعل لون النص معكوساً" سيجعل لون نص الإشعار باللون المعاكس للون المستطيل المحدد للنص لكي يكون أكثر وضوحاً.
+</string>
+	<key>CB_HIGHLIGHT</key>
+	<string>تلوين التحديد مع ColorBadges</string>
+	<key>ENABLED</key>
+	<string>التحديد تحت كتابة الإشعار</string>
+	<key>HIGHLIGHT_FOOTER</key>
+	<string>إذا تم تشغيلهُ, فسيتم وضع مستطيل مُلون تحت كتابة الإشعار لكي تكون بارزة وواضحة عندما يكون هناك إشعار.</string>
+	<key>HIGHLIGHT_OPTIONS</key>
+	<string>التحديد تحت كتابة الإشعار</string>
+	<key>INVERSE_COLOR</key>
+	<string>جعل لون الكتابة باللون المعاكس</string>
+	<key>SELECT_COLOR</key>
+	<string>إختر لون المستطيل المحدد للكتابة</string>
+</dict>
+</plist>
